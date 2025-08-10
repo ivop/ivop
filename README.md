@@ -12,6 +12,7 @@
 
 * [osiemu](https://github.com/ivop/osiemu) - Ohio Scientific Instruments, Inc. Emulator for Linux, Windows, and macOS
 * [atari8080](https://github.com/ivop/atari8080) - Intel 8080 Emulator in 6502 assembly (prototyped in C)
+* [atarisid](https://github.com/ivop/atarisid) - Software SID emulation for the Atari 8-bit (6502 @ 1.8MHz + POKEY)
 * [fake6502](https://github.com/ivop/fake6502) - MOS 6502 Emulator in C
 * [break6502](https://github.com/ivop/break6502) - 6502 gate level simulation in C++
 * [atariterm](https://github.com/ivop/atariterm) - Atari 800 emulator in a vt100/ANSI terminal window or console
@@ -19,7 +20,6 @@
 #### Retro Computing (Atari 8-bit, 6502, OSI, C64, BBC, NES, ...)
 
 * [saprtools](https://github.com/ivop/saprtools) - Tools for manipulating or creating Atari 8-bit SAPR files
-* [atarisid](https://github.com/ivop/atarisid) - Software SID emulation for the Atari 8-bit (6502 @ 1.8MHz + POKEY)
 * [pokey-explorer](https://github.com/ivop/pokey-explorer) - Exploring the Atari 8-bit Pokey chip
 * [random6502](https://github.com/ivop/random6502) - Pseudo Random Number Generators in 6502 assembly
 * [xatmas2](https://github.com/ivop/xatmas2) - Atmas 2 Compatible 6502 Cross-Assembler
