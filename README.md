@@ -8,18 +8,21 @@
 * [pokeysynth](https://github.com/ivop/pokeysynth) - Atari Pokey LV2 synth plugin with FLTK
 * [am6070towav](https://github.com/ivop/am6070towav) - Convert AM6070 ROMs to WAV files
 
-#### Retro Computing (Atari 8-bit, 6502, OSI, C64, BBC, NES, ...)
+#### Emulation
 
 * [osiemu](https://github.com/ivop/osiemu) - Ohio Scientific Instruments, Inc. Emulator for Linux, Windows, and macOS
+* [atari8080](https://github.com/ivop/atari8080) - Intel 8080 Emulator in 6502 assembly (prototyped in C)
+* [fake6502](https://github.com/ivop/fake6502) - MOS 6502 Emulator in C
+* [break6502](https://github.com/ivop/break6502) - 6502 gate level simulation in C++
+* [atariterm](https://github.com/ivop/atariterm) - Atari 800 emulator in a vt100/ANSI terminal window or console
+
+#### Retro Computing (Atari 8-bit, 6502, OSI, C64, BBC, NES, ...)
+
 * [saprtools](https://github.com/ivop/saprtools) - Tools for manipulating or creating Atari 8-bit SAPR files
 * [atarisid](https://github.com/ivop/atarisid) - Software SID emulation for the Atari 8-bit (6502 @ 1.8MHz + POKEY)
 * [pokey-explorer](https://github.com/ivop/pokey-explorer) - Exploring the Atari 8-bit Pokey chip
 * [random6502](https://github.com/ivop/random6502) - Pseudo Random Number Generators in 6502 assembly
 * [xatmas2](https://github.com/ivop/xatmas2) - Atmas 2 Compatible 6502 Cross-Assembler
-* [atari8080](https://github.com/ivop/atari8080) - Intel 8080 Emulator in 6502 assembly (prototyped in C)
-* [fake6502](https://github.com/ivop/fake6502) - MOS 6502 Emulator in C
-* [break6502](https://github.com/ivop/break6502) - 6502 gate level simulation in C++
-* [atariterm](https://github.com/ivop/atariterm) - Atari 800 emulator in a vt100/ANSI terminal window or console
 * [8x8-fonts](https://github.com/ivop/8x8-fonts) - Collection of very old 8x8 fonts
 * [siddasm2](https://github.com/ivop/siddasm2) - NSF, SAP and SID file disassembler (NES, Atari and C64) 
 * [sizecoding](https://github.com/ivop/sizecoding) - Sizecoding on retro computers! Atari 8-bit, C64, and more
