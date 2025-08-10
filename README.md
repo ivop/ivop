@@ -17,7 +17,7 @@
 * [break6502](https://github.com/ivop/break6502) - 6502 gate level simulation in C++
 * [atariterm](https://github.com/ivop/atariterm) - Atari 800 emulator in a vt100/ANSI terminal window or console
 
-#### Retro Computing (Atari 8-bit, 6502, OSI, C64, BBC, NES, ...)
+#### Retro Computing
 
 * [saprtools](https://github.com/ivop/saprtools) - Tools for manipulating or creating Atari 8-bit SAPR files
 * [pokey-explorer](https://github.com/ivop/pokey-explorer) - Exploring the Atari 8-bit Pokey chip
