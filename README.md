@@ -15,7 +15,7 @@
 * [atarisid](https://github.com/ivop/atarisid) - Software SID emulation for the Atari 8-bit (6502 @ 1.8MHz + POKEY)
 * [fake6502](https://github.com/ivop/fake6502) - MOS 6502 Emulator in C
 * [break6502](https://github.com/ivop/break6502) - 6502 gate level simulation in C++
-* [atariterm](https://github.com/ivop/atariterm) - Atari 800 emulator in a vt100/ANSI terminal window or console
+* [atariterm](https://github.com/ivop/atariterm) - atari800 emulator in a vt100/ANSI terminal window or console
 
 #### Retro Computing
 
