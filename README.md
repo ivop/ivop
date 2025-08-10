@@ -8,7 +8,7 @@
 * [pokeysynth](https://github.com/ivop/pokeysynth) - Atari Pokey LV2 synth plugin with FLTK
 * [am6070towav](https://github.com/ivop/am6070towav) - Convert AM6070 ROMs to WAV files
 
-#### Retro Computing (Atari 8-bit, 6502, OSI, C64, ...)
+#### Retro Computing (Atari 8-bit, 6502, OSI, C64, BBC, NES, ...)
 
 * [osiemu](https://github.com/ivop/osiemu) - Ohio Scientific Instruments, Inc. Emulator for Linux, Windows, and macOS
 * [saprtools](https://github.com/ivop/saprtools) - Tools for manipulating or creating Atari 8-bit SAPR files
