@@ -1,4 +1,3 @@
-
 #### Collaborations
 
 * [CP/M-65](https://github.com/davidgiven/cpm65) - Atari and OSI ports, DwarfStar
@@ -8,17 +7,6 @@
 
 * [pokeysynth](https://github.com/ivop/pokeysynth) - Atari Pokey LV2 synth plugin with FLTK
 * [am6070towav](https://github.com/ivop/am6070towav) - Convert AM6070 ROMs to WAV files
-
-#### Miscellaneous
-
-* [cygcross](https://github.com/ivop/cygcross) - Building a Cygwin Cross-Compiler for Linux
-* [zmalloc](https://github.com/ivop/zmalloc) - Dynamic Memory Allocation for Small Memory Systems
-* [7400-logisim](https://github.com/ivop/7400-logisim) - Logisim library of 7400-series ICs
-* [zzjson](https://github.com/ivop/zzjson) - Lightweight JSON library in C
-* [fpm](https://github.com/ivop/fpm) - Fixed Point Math library
-* [cpm22-from-source](https://github.com/ivop/cpm22-from-source) - Build CP/M 2.2 from source
-* [frida](https://github.com/ivop/frida) - FRee Interactive DisAssembler
-* [myterm](https://github.com/ivop/myterm) - Simple vt100 terminal based on SDL
 
 #### Retro Computing (Atari 8-bit, 6502, OSI, C64, ...)
 
@@ -49,3 +37,14 @@
 * [1088xel-kicad](https://github.com/ivop/1088xel-kicad) - MyTek's 1088XEL in KiCad
 * [midimuse](https://github.com/ivop/midimuse) - MIDI Interface for the Atari 8-Bit Computers, including a WaveBlaster Interface
 * [snes2joy](https://github.com/ivop/snes2joy) - Connect SNES controller to Atari joystick port
+
+#### Miscellaneous
+
+* [cygcross](https://github.com/ivop/cygcross) - Building a Cygwin Cross-Compiler for Linux
+* [zmalloc](https://github.com/ivop/zmalloc) - Dynamic Memory Allocation for Small Memory Systems
+* [7400-logisim](https://github.com/ivop/7400-logisim) - Logisim library of 7400-series ICs
+* [zzjson](https://github.com/ivop/zzjson) - Lightweight JSON library in C
+* [fpm](https://github.com/ivop/fpm) - Fixed Point Math library
+* [cpm22-from-source](https://github.com/ivop/cpm22-from-source) - Build CP/M 2.2 from source
+* [frida](https://github.com/ivop/frida) - FRee Interactive DisAssembler
+* [myterm](https://github.com/ivop/myterm) - Simple vt100 terminal based on SDL
