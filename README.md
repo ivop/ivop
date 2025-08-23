@@ -40,6 +40,7 @@
 * [1088xel-kicad](https://github.com/ivop/1088xel-kicad) - MyTek's 1088XEL in KiCad
 * [midimuse](https://github.com/ivop/midimuse) - MIDI Interface for the Atari 8-Bit Computers, including a WaveBlaster Interface
 * [snes2joy](https://github.com/ivop/snes2joy) - Connect SNES controller to Atari joystick port
+* [dip-to-pinheader](https://github.com/ivop/dip-to-pinheader) - DIP to PinHeader boards
 
 #### Miscellaneous
 
