@@ -53,7 +53,7 @@
 * [frida](https://github.com/ivop/frida) - FRee Interactive DisAssembler
 * [myterm](https://github.com/ivop/myterm) - Simple vt100 terminal based on SDL
 
-#### Projects I started that others took over
+#### Projects I started continued by others
 
 * [xautoclick](https://github.com/qarkai/xautoclick) ([my SourceForge original](https://xautoclick.sourceforge.net/news.html)) - Auto Clicker for X11, FLTK, GTK+, and Qt
 * [rkflashtool](https://github.com/linux-rockchip/rkflashtool) ([my SourceForge original](https://sourceforge.net/projects/rkflashtool/)) - Tool to flash RockChip based devices over USB
