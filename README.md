@@ -54,6 +54,7 @@
 * [cpm22-from-source](https://github.com/ivop/cpm22-from-source) - Build CP/M 2.2 from source
 * [frida](https://github.com/ivop/frida) - FRee Interactive DisAssembler
 * [myterm](https://github.com/ivop/myterm) - Simple vt100 terminal based on SDL
+* [run-bbc-basic](https://github.com/ivop/run-bbc-basic/) - run BBC BASIC on Linux
 
 #### Projects I started continued by others
 
