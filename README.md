@@ -32,6 +32,7 @@
 
 #### Hardware
 
+* [osi600d](https://github.com/ivop/osi600d) - Ohio Scientific 600D Remake
 * [ramtest2114](https://github.com/ivop/ramtest2114) - MARCH MSS 2114 SRAM Tester
 * [PicoRAMCart](https://github.com/ivop/PicoRAMCart) - Emulate Raster/Bob!k/C.P.U. RAM Cartridge with A8PicoCart
 * [atari2600cart](https://github.com/ivop/atari2600cart) - Atari 2600 Cartridge PCB
