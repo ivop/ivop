@@ -1,7 +1,7 @@
 #### Collaborations
 
 * [CP/M-65](https://github.com/davidgiven/cpm65) - Atari and OSI ports, DwarfStar editor
-* [adlib2vgm](https://github.com/ivop/adlib2vgm) - Converts file formats supported by AdPlug to VGM format
+* [adlib2vgm](https://github.com/SudoMaker/adlib2vgm) - Converts file formats supported by AdPlug to VGM format
 
 #### Music
 
