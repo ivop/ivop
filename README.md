@@ -48,6 +48,7 @@
 
 #### Miscellaneous
 
+* [project5474](https://github.com/ivop/project5474) - Revived Project 54/74, die-shots, traces, and schematics
 * [cygcross](https://github.com/ivop/cygcross) - Building a Cygwin Cross-Compiler for Linux
 * [zmalloc](https://github.com/ivop/zmalloc) - Dynamic Memory Allocation for Small Memory Systems
 * [7400-logisim](https://github.com/ivop/7400-logisim) - Logisim library of 7400-series ICs
